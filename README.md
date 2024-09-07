@@ -63,5 +63,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any questions or suggestions, feel free to contact:
 
 **Abhishek Tripathi**  
-Email: [click here](abhi7585tripathi@gmail.com)  
+Email: [click here](mailto:abhi7585tripathi@gmail.com)  
 LinkedIn: [click here](https://www.linkedin.com/in/abhishek-tripathi-analyst)
