@@ -10,8 +10,7 @@ This repository contains the **Sales Analysis Dashboard**, developed in August 2
 4. [Usage](#usage)
 5. [Screenshots](#screenshots)
 6. [Contributing](#contributing)
-7. [License](#license)
-8. [Contact](#contact)
+7. [Contact](#contact)
 
 ## Project Overview
 
@@ -44,7 +43,12 @@ To use the Sales Analysis Dashboard:
 
 ![Sales Analysis Dashboard](./images/Dashboard.png)
 
-The above screenshot provides a glimpse of the Sales Analysis Dashboard, showcasing the layout and visual elements used to present sales insights.
+The above screenshot provides a glimpse of the Sales Analysis Dashboard in EXCEL, showcasing the layout and visual elements used to present sales insights.
+
+![Sales Analysis Dashboard](./images/PowerBI_Dashboard.png)
+
+The above screenshot provides a glimpse of the Sales Analysis Dashboard in PowerBI, showcasing the layout and visual elements used to present sales insights.
+
 
 ## Contributing
 
